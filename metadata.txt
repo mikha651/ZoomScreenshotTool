@@ -1,0 +1,18 @@
+[general]
+name=ZoomScreenshotTool
+description=Zooms to each feature in a layer and exports a screenshot named after an attribute
+about=Zooms to each feature in a selected vector layer and saves a map image using an attribute value as filename.
+version=1.0
+qgisMinimumVersion=3.0
+author=mikha651
+email=michel651@gmail.com
+homepage=https://github.com/mikha651/ZoomScreenshotTool
+repository=https://github.com/mikha651/ZoomScreenshotTool/issues
+tracker=https://github.com/mikha651/ZoomScreenshotTool
+category=Vector
+icon=icon.png
+experimental=False
+deprecated=False
+
+[help]
+changelog=CHANGELOG.md
